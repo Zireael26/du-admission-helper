@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/du-admission-helper/static/css/main.b85abdf2.chunk.css",
+    "main.js": "/du-admission-helper/static/js/main.ae30e893.chunk.js",
+    "main.js.map": "/du-admission-helper/static/js/main.ae30e893.chunk.js.map",
+    "runtime-main.js": "/du-admission-helper/static/js/runtime-main.43bf51e1.js",
+    "runtime-main.js.map": "/du-admission-helper/static/js/runtime-main.43bf51e1.js.map",
+    "static/js/2.91868b6f.chunk.js": "/du-admission-helper/static/js/2.91868b6f.chunk.js",
+    "static/js/2.91868b6f.chunk.js.map": "/du-admission-helper/static/js/2.91868b6f.chunk.js.map",
+    "index.html": "/du-admission-helper/index.html",
+    "static/css/main.b85abdf2.chunk.css.map": "/du-admission-helper/static/css/main.b85abdf2.chunk.css.map",
+    "static/js/2.91868b6f.chunk.js.LICENSE.txt": "/du-admission-helper/static/js/2.91868b6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43bf51e1.js",
+    "static/js/2.91868b6f.chunk.js",
+    "static/css/main.b85abdf2.chunk.css",
+    "static/js/main.ae30e893.chunk.js"
+  ]
+}
