@@ -41,6 +41,7 @@ const ScalingSection = (props) => {
     setAchievedMarks(0);
     setScaleFromMarks(0);
     setScaleToMarks(0);
+    setScaledMarks(0);
   };
 
   let scalingText = <h3>Enter marks and press 'Scale Marks' button</h3>;

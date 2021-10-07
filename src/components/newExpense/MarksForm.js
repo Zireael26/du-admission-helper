@@ -59,7 +59,7 @@ const MarksForm = (props) => {
       <form onSubmit={submitFormHandler}>
         <div className="new-expense__controls">
           <div className="new-expense__control">
-            <label>Marks in first Subject</label>
+            <label>Marks in first subject</label>
             <input
               type="number"
               value={firstMarks}
